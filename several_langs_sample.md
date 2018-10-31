@@ -1,6 +1,7 @@
 
 
-** Java ** 
+#Java 
+```Java
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileOutputStream;
@@ -36,7 +37,9 @@ public class WriteFile {
     }
 }
 
-** Python **
+
+#Python
+```python
 print("Hello World")
 # считать сообщение
 userMessage = input()
