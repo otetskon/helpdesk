@@ -1,6 +1,6 @@
 
 
-#Java 
+# Java 
 ```Java
 import java.io.BufferedWriter;
 import java.io.File;
@@ -38,7 +38,7 @@ public class WriteFile {
 }
 ```
 
-#Python
+# Python
 ```python
 print("Hello World")
 # считать сообщение
