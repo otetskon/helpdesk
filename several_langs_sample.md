@@ -36,7 +36,7 @@ public class WriteFile {
         System.out.println("Сообщение сохранено");
     }
 }
-
+```
 
 #Python
 ```python
@@ -51,3 +51,4 @@ file.Write(userMessage)
 file.close()
 # вывести оповещение о сохранении сообщения
 print("Сообщение сохранено")
+```
