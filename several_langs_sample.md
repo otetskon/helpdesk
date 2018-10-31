@@ -1,6 +1,6 @@
 
 
-#Java 
+# Java 
 ```Java
 import java.io.BufferedWriter;
 import java.io.File;
@@ -36,9 +36,9 @@ public class WriteFile {
         System.out.println("Сообщение сохранено");
     }
 }
+```
 
-
-#Python
+# Python
 ```python
 print("Hello World")
 # считать сообщение
@@ -51,3 +51,4 @@ file.Write(userMessage)
 file.close()
 # вывести оповещение о сохранении сообщения
 print("Сообщение сохранено")
+```
