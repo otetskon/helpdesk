@@ -8,6 +8,7 @@
   - [Как мне использовать код, найденный в интернете?](/solution%20analysis.md)
   - [В чём различия языков?](/several_langs_sample.md)
   - [Рекомендации по технологиям](/proposed-techs.md)
+  - [Практика по Git](http://ddsh.ru/lections/2018-07-29/practice.html)
 - Статьи
   - [ООП - история лени](/several_langs_sample.md)
   - [Зачем нужно учиться искать информацию в интернете?](/why.md)
