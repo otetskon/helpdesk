@@ -78,7 +78,7 @@ puts "Сообщение сохранено"
 ```
 
 # Javascript
-В javascript не так просто взять и считать что-то из строки, по этому другой пример
+В javascript не так просто взять и считать что-то из строки, поэтому другой пример
 
 ```javascript
 var elem = document.getElementById("elem");
